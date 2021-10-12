@@ -51,7 +51,7 @@ float acak(float bilangan) { // contohvar: 11.123
 
 int morningGreet(char const *nama) {
   printf("Hello %s \n", nama); // hello zidan
-  return 1231;
+  return 0;
 }
 
 // void printKata(string katanya) {
